@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 자바스트립트 기본내장객체
 
-You can use the [editor on GitHub](https://github.com/CCCCSSSSHHHH/CSHblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img width="656" alt="2017-11-12 2 52 43" src="https://user-images.githubusercontent.com/30111837/32696364-880ffb52-c7b9-11e7-9dda-c6ec22b4be7e.png">
+<img width="784" alt="2017-11-12 2 52 57" src="https://user-images.githubusercontent.com/30111837/32696365-8834f632-c7b9-11e7-922e-8572a3c348bd.png">
+<img width="772" alt="2017-11-12 2 53 08" src="https://user-images.githubusercontent.com/30111837/32696366-8859e334-c7b9-11e7-954b-04281468b7b0.png">
+<img width="814" alt="2017-11-12 2 53 19" src="https://user-images.githubusercontent.com/30111837/32696367-88812ba6-c7b9-11e7-8697-d08f0b0bb2bb.png">
+<img width="760" alt="2017-11-12 2 53 26" src="https://user-images.githubusercontent.com/30111837/32696368-88a68414-c7b9-11e7-9dce-507e2f6eb005.png">
+<img width="773" alt="2017-11-12 2 53 47" src="https://user-images.githubusercontent.com/30111837/32696369-88cbd372-c7b9-11e7-8b50-c8ac3b48d6eb.png">
+<img width="770" alt="2017-11-12 2 53 53" src="https://user-images.githubusercontent.com/30111837/32696370-88f1e9ea-c7b9-11e7-932d-598bb210b8a7.png">
+<img width="742" alt="2017-11-12 2 54 00" src="https://user-images.githubusercontent.com/30111837/32696371-89170978-c7b9-11e7-8829-870c855828f4.png">
+<img width="839" alt="2017-11-12 2 54 09" src="https://user-images.githubusercontent.com/30111837/32696372-89409626-c7b9-11e7-8c63-95b7fe973b91.png">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CCCCSSSSHHHH/CSHblog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
